@@ -1,0 +1,6 @@
+/home/zhavick/MonoDevelop_Proj/GTKProgressBar/GTKProgressBar/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zhavick/MonoDevelop_Proj/GTKProgressBar/GTKProgressBar/obj/x86/Debug/GTKProgressBar.gtk-gui.gui.stetic
+/home/zhavick/MonoDevelop_Proj/GTKProgressBar/GTKProgressBar/bin/Debug/GTKProgressBar.exe.mdb
+/home/zhavick/MonoDevelop_Proj/GTKProgressBar/GTKProgressBar/bin/Debug/GTKProgressBar.exe
+/home/zhavick/MonoDevelop_Proj/GTKProgressBar/GTKProgressBar/obj/x86/Debug/GTKProgressBar.exe
+/home/zhavick/MonoDevelop_Proj/GTKProgressBar/GTKProgressBar/obj/x86/Debug/GTKProgressBar.exe.mdb
